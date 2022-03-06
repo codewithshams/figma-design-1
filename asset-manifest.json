@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/figma-design-1/static/css/main.2b79d782.css",
+    "main.js": "/figma-design-1/static/js/main.a97a8de8.js",
+    "static/media/footer-bg.png": "/figma-design-1/static/media/footer-bg.7d736a591de6c328f321.png",
+    "static/media/slider-left-dec.png": "/figma-design-1/static/media/slider-left-dec.da0a0b96f1813784cb0b.png",
+    "static/media/about-right-dec.png": "/figma-design-1/static/media/about-right-dec.793eb0c7327a2ab3f9d8.png",
+    "static/media/slider-dec.png": "/figma-design-1/static/media/slider-dec.75585872b517dd5efcf5.png",
+    "static/media/about-bg.jpg": "/figma-design-1/static/media/about-bg.096aebb05c644a4e997e.jpg",
+    "index.html": "/figma-design-1/index.html",
+    "main.2b79d782.css.map": "/figma-design-1/static/css/main.2b79d782.css.map",
+    "main.a97a8de8.js.map": "/figma-design-1/static/js/main.a97a8de8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b79d782.css",
+    "static/js/main.a97a8de8.js"
+  ]
+}
